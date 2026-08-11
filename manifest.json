@@ -1,5 +1,5 @@
 {
-  "name": "ArcadeHub",
+  "name": "ArcadeHub Portal",
   "short_name": "ArcadeHub",
   "start_url": "./index.html",
   "display": "standalone",
